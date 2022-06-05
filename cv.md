@@ -11,6 +11,7 @@
     + git, webpack, npm
     + JavScript, React
     + VS Code
+    + 1:C
 * ## Code Exmple
     ```
     let hello = (name) => (`Hello, ${name}`);
